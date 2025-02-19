@@ -1,4 +1,4 @@
-# Привет, я [fonsski]! 👋
+# Привет, я fonsski! 👋
 
 Я — веб-разработчик, увлечённый созданием качественных проектов. Некоторые из моих работ, которыми я горжусь, находятся вне GitHub, но именно здесь я демонстрирую свой опыт в использовании современных технологий.
 
@@ -15,8 +15,8 @@
 ---
 
 ## 📊 Статистика GitHub
-[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)](https://github.com/YOUR_USERNAME)
+[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=fonsski&show_icons=true&theme=default)](https://github.com/YOUR_USERNAME)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonsski&layout=compact&theme=default)](https://github.com/YOUR_USERNAME)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fonsski&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
